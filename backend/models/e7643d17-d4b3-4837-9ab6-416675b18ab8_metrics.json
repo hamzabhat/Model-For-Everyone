@@ -1,0 +1,1 @@
+{"evaluation_metrics": {"r2_score": 0.7111553601408902, "mae": 0.10005570409982174, "rmse": 0.2563438229564884, "test_size": 80}, "cross_validation_results": {"cv_mean_r2": 0.4831933131397026, "cv_std_r2": 0.23201035100108108}}
